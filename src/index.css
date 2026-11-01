@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@theme {
+    --color-primary: #1D8649;
+    --color-foreground: #1B2D25;
+    --color-background: #F8FBF9;
+    --color-secondary: #E2EEE6;
+    --color-muted-text: #5E6E66;
+    --color-border: #D5E2D9;
+    --color-black: #111111;
+    --color-soft: #F3F5F3;
+    --color-line: #DAE2D8;
+    --color-forest: #143D2B;
+
+    --font-gf: "GFS Didot";
+    --font-Montserrat: 'Montserrat';
+}
